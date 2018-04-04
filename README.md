@@ -1,3 +1,5 @@
-# My Awesome Book
+# 97 cosas que todo programador debería saber
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Traducción al Español del libro “97 Things Every Programmer Should Know”, contiene todo tipo de consejos y recomendaciones para los profesionales de la programación informática: refactorización, código limpio, pruebas, aprendizaje contínuo, etc.
+
+Este sitio es la continuación del esfuerzo de Natán Calzolari (inicialmente en http://97cosas.com.ar), a quien agradezco de su iniciativa.
