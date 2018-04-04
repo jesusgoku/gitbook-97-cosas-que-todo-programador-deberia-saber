@@ -1,4 +1,4 @@
-03. Averigua qué haría el usuario (tú no eres el usuario)
+# 03. Averigua qué haría el usuario (tú no eres el usuario)
 
 Autor: Giles Colborne
 
