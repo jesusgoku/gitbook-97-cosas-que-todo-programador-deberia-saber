@@ -7,4 +7,5 @@
 * [04. Automiza el estándar de codificación](04-automatiza-el-estandar-de-codificacion.md)
 * [05. La belleza está en la simplicidad](05-la-belleza-esta-en-la-simplicidad.md)
 * [06. Antes de refactorizar](06-antes-de-refactorizar.md)
+* [07. Ten cuidado al compartir](07-ten-ciudado-al-compartir.md)
 
