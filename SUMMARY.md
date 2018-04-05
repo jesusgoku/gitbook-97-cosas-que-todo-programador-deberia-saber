@@ -12,3 +12,4 @@
 * [09. Primero revisa tu código antes de buscar culpar a otros](09-primero-revisa-tu-codigo-antes-de-buscar-culpar-a-otros.md)
 * [10. Escoge tus herramientas con cuidado](10-escoge-tus-herramientas-con-cuidado.md)
 * [11. Codifica en el lenguaje del dominio](11-codifica-en-el-lenguaje-del-dominio.md)
+* [12. El código es diseño](12-el-codigo-es-diseno.md)
