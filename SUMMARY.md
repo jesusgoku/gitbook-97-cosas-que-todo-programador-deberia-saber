@@ -17,3 +17,4 @@
 * [14. Revisiones de código](14-revisiones-de-codigo.md)
 * [15. Codificando con la razón](15-codificando-con-la-razon.md)
 * [16. Un comentario acerca de los comentarios](16-un-comentario-acerca-de-los-comentarios.md)
+* [17. Comenta sólo lo que el código no dice](17-comenta-solo-lo-que-el-codigo-no-dice.md)
