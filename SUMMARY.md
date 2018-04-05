@@ -8,4 +8,5 @@
 * [05. La belleza está en la simplicidad](05-la-belleza-esta-en-la-simplicidad.md)
 * [06. Antes de refactorizar](06-antes-de-refactorizar.md)
 * [07. Ten cuidado al compartir](07-ten-ciudado-al-compartir.md)
+* [08. La regla boy scout](08-la-regla-boy-scout.md)
 
