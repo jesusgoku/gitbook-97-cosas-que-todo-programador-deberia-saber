@@ -19,3 +19,4 @@
 * [16. Un comentario acerca de los comentarios](16-un-comentario-acerca-de-los-comentarios.md)
 * [17. Comenta sólo lo que el código no dice](17-comenta-solo-lo-que-el-codigo-no-dice.md)
 * [18. Aprendiendo continuamente](18-aprendiendo-continuamente.md)
+* [19. La conveniencia no es una -bilidad](19-la-conveniencia-no-es-una-bilidad.md)
