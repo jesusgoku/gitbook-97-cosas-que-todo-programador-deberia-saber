@@ -16,3 +16,4 @@
 * [13. El diseño del código sí importa](13-el-diseno-del-codigo-si-importa.md)
 * [14. Revisiones de código](14-revisiones-de-codigo.md)
 * [15. Codificando con la razón](15-codificando-con-la-razon.md)
+* [16. Un comentario acerca de los comentarios](16-un-comentario-acerca-de-los-comentarios.md)
