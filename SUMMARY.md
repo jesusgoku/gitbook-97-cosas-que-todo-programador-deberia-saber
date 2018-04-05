@@ -14,3 +14,4 @@
 * [11. Codifica en el lenguaje del dominio](11-codifica-en-el-lenguaje-del-dominio.md)
 * [12. El código es diseño](12-el-codigo-es-diseno.md)
 * [13. El diseño del código sí importa](13-el-diseno-del-codigo-si-importa.md)
+* [14. Revisiones de código](14-revisiones-de-codigo.md)
