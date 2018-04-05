@@ -15,3 +15,4 @@
 * [12. El código es diseño](12-el-codigo-es-diseno.md)
 * [13. El diseño del código sí importa](13-el-diseno-del-codigo-si-importa.md)
 * [14. Revisiones de código](14-revisiones-de-codigo.md)
+* [15. Codificando con la razón](15-codificando-con-la-razon.md)
